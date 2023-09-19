@@ -3,7 +3,7 @@ Hello,
 
 1. Nothing real/serious but I have dabbled around a decent bit. I'd say i know Python the best of any of the big languages
 2. Computer science is something quite interesting to me
-3. Some other interests are Engineering and game design.
+3. Some other interests are Engineering and Video Games.
 4. Just simply broaden my coding knowledge so I dont have to look as many things up online while coding.
 
 [random link](https://en.wikipedia.org/wiki/Simplified_Chinese_characters)
