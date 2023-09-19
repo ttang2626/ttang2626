@@ -6,7 +6,7 @@ Hello,
 3. Some other interests are Engineering and game design.
 4. Just simply broaden my coding knowledge so I dont have to look as many things up online while coding.
 
-[THIS IS A LINK TEST TO A WIKIPEDIA PAGE](https://en.wikipedia.org/wiki/Simplified_Chinese_characters)
+[random link](https://en.wikipedia.org/wiki/Simplified_Chinese_characters)
 
 
 <!--
